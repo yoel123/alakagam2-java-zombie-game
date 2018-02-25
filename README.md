@@ -1,4 +1,4 @@
-this is my alakajam2 game jam to entry. didnt have the time to do more then
+this is my alakajam2 game jam entry. didnt have the time to do more then
 a raw prototype of a game. no sound, no logo no grafics and no time to code 
 more then i had done.
 
@@ -12,6 +12,7 @@ in any case it was a great experience and learnd alot from it like every time.
 --------------------------------------
 
 basicly its a side scroler 2d zombie shooter maybe i will devlop it.
+
 -------------
 
 controls:
